@@ -29,8 +29,8 @@ p {
 }
 
 img {
-margin-top:10rem;
-  width: 70%;
+margin-top:15rem;
+  width: 100%;
 }
 
 footer {
@@ -41,6 +41,7 @@ footer {
 
 }
 button{
+margin-top: 5%;
   padding: 2rem;
   font-family: 'Indie Flower', cursive;
   background-color: rgb(73, 66, 165);
