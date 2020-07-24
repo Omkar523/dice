@@ -49,3 +49,11 @@ font-size: 3rem;
   color: aliceblue;
   width: 30%;
 }
+
+.ani{
+  width: 15%;
+  background-color: rgb(235, 214, 214);
+  padding: 1rem;
+  margin: 2.4rem;
+  opacity: 0.4;
+}
